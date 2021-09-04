@@ -1,0 +1,40 @@
+.content{
+  padding-right: 20px;
+}
+.heading2 {
+  font-weight: bolder;
+  font-size: 45px;
+  margin-bottom: 12px;
+}@media (max-width: 767px){
+  .heading2{
+    font-size: 35px;
+  }
+  .icontainer{
+    padding-top: 60px !important;
+  }
+  .text{
+    font-size: 1rem;
+  }
+}
+.text{
+  font-size: 1.15rem;
+  font-weight: 400;
+}
+
+.join{
+  background-color: #00b87c;
+  color: #fff;
+  font-size: 1.1rem;
+  padding: .6rem 2rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  border-radius: 5px;
+}@media (min-width: 768px){
+  .join{
+    padding: .8rem 3rem;
+    font-size: 1.3rem;
+  }
+}
+.join:hover{
+  color: #fff;
+}
