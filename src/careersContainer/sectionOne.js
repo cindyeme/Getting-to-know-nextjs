@@ -16,7 +16,7 @@ const SectionOne = () => (
             Explore remote-friendly, flexible opportunities and join our mission to make work life simpler, more
             pleasant and more productive.
           </p>
-          <Link href="#">
+          <Link href="/signup">
             <a className={styles.join}>Join us</a>
           </Link>
         </div>

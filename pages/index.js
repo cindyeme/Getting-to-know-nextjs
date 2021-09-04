@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import SectionOne from '../../src/careersContainer/sectionOne';
+import SectionOne from '../src/careersContainer/sectionOne';
 
 const CareersSectionOne = () => {
   return (
